@@ -122,7 +122,7 @@ function createPasswordOptions(
     "}",
     "~",
   ];
-  
+
   let allowedChars = "";
   let password = "";
   allowedChars += hasLowerCasedLetters ? lowercaseChars : "";
